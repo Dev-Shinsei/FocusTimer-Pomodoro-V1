@@ -41,4 +41,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e técnicas:
  <br />
  <sub><b>Carlos Gomes</b></sub></a> <a href="https://github.com/Dev-Shinsei" title="Github">🚀</a>
 
-Feito com ❤️ por Carlos Gomes 👋
+Made with ❤️ by Carlos Gomes 👋
